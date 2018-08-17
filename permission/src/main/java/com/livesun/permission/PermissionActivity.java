@@ -17,7 +17,7 @@ import androidx.core.app.ActivityCompat;
  * github：https://github.com/livesun
  */
 
- class PermissionActivity extends Activity {
+public class PermissionActivity extends Activity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
